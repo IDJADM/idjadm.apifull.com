@@ -1,0 +1,6 @@
+appdelegate.m
+firebasecore:
+Objective-C
+@importfirebasecore;
+application:didFinishLaunchingWith0ptions:,
+Objective-C
